@@ -1,0 +1,39 @@
+
+body {
+margin: 0;
+
+}
+
+div {
+    float: left;
+}
+
+.col-1 {
+    background-color: #4A90E2;
+    height: 100vh;
+    width: calc(100%/3);
+}
+
+.col-2 {
+    background-color: #50E3C2;
+    height: 100vh;
+    width: calc(100%/3);
+}
+
+.col-3 {
+    background-color: #B8E986;
+    height: 80vh;
+    width: calc(100%/3);
+}
+
+.col-4 {
+    background-color: #D0021B;
+    height: 20vh;
+    width: calc(100%/3);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 5vh;
+}

@@ -1,0 +1,40 @@
+.rows {
+    width: 100%;
+    height: calc(100vh/7);
+}
+
+.row-1 {
+    background-color: #F3F2F2;
+    padding: 10px 20px 0;
+}
+
+.row-2 {
+    background-color: white;
+    height: calc(200vh/7);
+}
+.row-3 {
+    background-color:#4A90E2;
+}
+
+.row-4 {
+    background-color:#50E3C2;
+}
+
+.row-5 {
+    background-color:#BBE986;
+}
+
+.row-6 {
+    background-color: #F8E71C;
+}
+p {
+    padding: 4%;    
+    font-size: 24px;
+}
+
+.little-box {
+    background-color: #4A90E2;
+    height: 80%;
+    width: 100px;
+  }
+
